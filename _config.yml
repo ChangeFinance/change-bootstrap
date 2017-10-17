@@ -12,7 +12,7 @@ permalink:        pretty
 source:           .
 destination:      ./_gh_pages
 port:             9001
-baseurl:          "/change-bootstrap"
+baseurl:          "/"
 url:              http://change-bootstrap.producement.com
 encoding:         UTF-8
 exclude:          [.git, .github, assets/scss/, build, js, node_modules, nuget, scss, vendor, bower.json, composer.json, Gemfile, Gemfile.lock, Gruntfile.js, package.js, package.json, package-lock.json, sache.json]
