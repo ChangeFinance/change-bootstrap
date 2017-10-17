@@ -1,1 +1,1 @@
-Sitemap: http://change-bootstrap.producement.com/change-bootstrap/sitemap.xml
+Sitemap: http://change-bootstrap.producement.com/sitemap.xml
