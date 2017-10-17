@@ -7173,6 +7173,13 @@ button:focus {
   .btn-group-raised .custom-file-control:active::before {
     z-index: 1;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.18), 0 8px 16px rgba(0, 0, 0, 0.36); }
+  .btn.bmd-btn-fab.focus, .bmd-btn-fab.focus.custom-file-control::before, .btn.bmd-btn-fab:focus, .bmd-btn-fab.custom-file-control:focus::before, .btn.btn-raised.focus, .btn-raised.focus.custom-file-control::before, .btn.btn-raised:focus, .btn-raised.custom-file-control:focus::before,
+  .btn-group-raised .btn.focus,
+  .btn-group-raised .focus.custom-file-control::before,
+  .btn-group-raised .btn:focus,
+  .btn-group-raised .custom-file-control:focus::before {
+    box-shadow: none;
+    outline: 0; }
   .btn.btn-raised, .btn-raised.custom-file-control::before,
   .btn-group-raised .btn,
   .btn-group-raised .custom-file-control::before {
@@ -8297,7 +8304,7 @@ label.radio-inline {
       background-color: #009688; }
     .radio label input[type=radio]:checked ~ .bmd-radio::before,
     label.radio-inline input[type=radio]:checked ~ .bmd-radio::before {
-      transform: scale3d(0.55, 0.55, 1); }
+      transform: scale3d(0.5, 0.5, 1); }
     .radio label input[type=radio][disabled] + .bmd-radio, .radio label input[type=radio]:disabled + .bmd-radio,
     fieldset[disabled] .radio label input[type=radio] + .bmd-radio,
     label.radio-inline input[type=radio][disabled] + .bmd-radio,
