@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-material-design",
+  "name": "change-bootstrap",
   "description": "Material Design for Bootstrap 4",
   "version": "4.0.0-beta.3",
   "keywords": [
@@ -15,7 +15,7 @@
     "framework",
     "web"
   ],
-  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
+  "homepage": "https://github.com/ChangeFinance/change-bootstrap",
   "author": "Federico Zivolo",
   "scripts": {
     "docs:compile": "bundle exec jekyll build",
@@ -35,10 +35,10 @@
   "main": "dist/js/bootstrap-material-design.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FezVrasta/bootstrap-material-design.git"
+    "url": "https://github.com/ChangeFinance/change-bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/FezVrasta/bootstrap-material-design/issues"
+    "url": "https://github.com/ChangeFinance/change-bootstrap/issues"
   },
   "license": "MIT",
   "devDependencies": {
