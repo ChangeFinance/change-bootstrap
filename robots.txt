@@ -1,1 +1,1 @@
-Sitemap: https://fezvrasta.github.io/bootstrap-material-design/sitemap.xml
+Sitemap: http://change-bootstrap.producement.com/change-bootstrap/sitemap.xml
