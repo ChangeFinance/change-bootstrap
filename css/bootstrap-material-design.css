@@ -6062,21 +6062,21 @@ button:focus {
   .btn.btn-link, .btn-link.custom-file-control::before {
     background-color: transparent; }
   .btn.btn-primary, .btn-primary.custom-file-control::before {
-    color: #009688;
+    color: #02bda5;
     background-color: transparent;
     border-color: #ccc; }
     .btn.btn-primary:hover, .btn-primary.custom-file-control:hover::before {
-      color: #009688;
+      color: #02bda5;
       background-color: rgba(153, 153, 153, 0.2);
       border-color: rgba(153, 153, 153, 0.2); }
     .btn.btn-primary:focus, .btn-primary.custom-file-control:focus::before, .btn.btn-primary.focus, .btn-primary.focus.custom-file-control::before {
-      color: #009688;
+      color: #02bda5;
       background-color: rgba(153, 153, 153, 0.2);
       border-color: rgba(153, 153, 153, 0.2); }
     .btn.btn-primary:active, .btn-primary.custom-file-control:active::before, .btn.btn-primary.active, .btn-primary.active.custom-file-control::before,
     .open > .btn.btn-primary.dropdown-toggle,
     .open > .btn-primary.dropdown-toggle.custom-file-control::before {
-      color: #009688;
+      color: #02bda5;
       background-color: rgba(153, 153, 153, 0.2);
       border-color: rgba(153, 153, 153, 0.2); }
       .btn.btn-primary:active:hover, .btn-primary.custom-file-control:active:hover::before, .btn.btn-primary:active:focus, .btn-primary.custom-file-control:active:focus::before, .btn.btn-primary:active.focus, .btn-primary.custom-file-control:active.focus::before, .btn.btn-primary.active:hover, .btn-primary.active.custom-file-control:hover::before, .btn.btn-primary.active:focus, .btn-primary.active.custom-file-control:focus::before, .btn.btn-primary.active.focus, .btn-primary.active.focus.custom-file-control::before,
@@ -6086,7 +6086,7 @@ button:focus {
       .open > .btn-primary.dropdown-toggle.custom-file-control:focus::before,
       .open > .btn.btn-primary.dropdown-toggle.focus,
       .open > .btn-primary.dropdown-toggle.focus.custom-file-control::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(153, 153, 153, 0.4);
         border-color: rgba(153, 153, 153, 0.4); }
     .open > .btn.btn-primary.dropdown-toggle.bmd-btn-icon, .open > .btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before {
@@ -6101,21 +6101,21 @@ button:focus {
       background-color: transparent;
       border-color: #ccc; }
     .bg-inverse .btn.btn-primary, .bg-inverse .btn-primary.custom-file-control::before {
-      color: #009688;
+      color: #02bda5;
       background-color: transparent;
       border-color: #ccc; }
       .bg-inverse .btn.btn-primary:hover, .bg-inverse .btn-primary.custom-file-control:hover::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(204, 204, 204, 0.15);
         border-color: rgba(204, 204, 204, 0.15); }
       .bg-inverse .btn.btn-primary:focus, .bg-inverse .btn-primary.custom-file-control:focus::before, .bg-inverse .btn.btn-primary.focus, .bg-inverse .btn-primary.focus.custom-file-control::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(204, 204, 204, 0.15);
         border-color: rgba(204, 204, 204, 0.15); }
       .bg-inverse .btn.btn-primary:active, .bg-inverse .btn-primary.custom-file-control:active::before, .bg-inverse .btn.btn-primary.active, .bg-inverse .btn-primary.active.custom-file-control::before,
       .open > .bg-inverse .btn.btn-primary.dropdown-toggle,
       .open > .bg-inverse .btn-primary.dropdown-toggle.custom-file-control::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(204, 204, 204, 0.15);
         border-color: rgba(204, 204, 204, 0.15); }
         .bg-inverse .btn.btn-primary:active:hover, .bg-inverse .btn-primary.custom-file-control:active:hover::before, .bg-inverse .btn.btn-primary:active:focus, .bg-inverse .btn-primary.custom-file-control:active:focus::before, .bg-inverse .btn.btn-primary:active.focus, .bg-inverse .btn-primary.custom-file-control:active.focus::before, .bg-inverse .btn.btn-primary.active:hover, .bg-inverse .btn-primary.active.custom-file-control:hover::before, .bg-inverse .btn.btn-primary.active:focus, .bg-inverse .btn-primary.active.custom-file-control:focus::before, .bg-inverse .btn.btn-primary.active.focus, .bg-inverse .btn-primary.active.focus.custom-file-control::before,
@@ -6125,7 +6125,7 @@ button:focus {
         .open > .bg-inverse .btn-primary.dropdown-toggle.custom-file-control:focus::before,
         .open > .bg-inverse .btn.btn-primary.dropdown-toggle.focus,
         .open > .bg-inverse .btn-primary.dropdown-toggle.focus.custom-file-control::before {
-          color: #009688;
+          color: #02bda5;
           background-color: rgba(204, 204, 204, 0.25);
           border-color: rgba(204, 204, 204, 0.25); }
       .open > .bg-inverse .btn.btn-primary.dropdown-toggle.bmd-btn-icon, .open > .bg-inverse .btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before {
@@ -6545,22 +6545,22 @@ button:focus {
   .btn-group-raised .btn.btn-primary,
   .btn-group-raised .btn-primary.custom-file-control::before {
     color: #fff;
-    background-color: #009688;
-    border-color: #009688; }
+    background-color: #02bda5;
+    border-color: #02bda5; }
     .btn.bmd-btn-fab.btn-primary:hover, .bmd-btn-fab.btn-primary.custom-file-control:hover::before, .btn.btn-raised.btn-primary:hover, .btn-raised.btn-primary.custom-file-control:hover::before,
     .btn-group-raised .btn.btn-primary:hover,
     .btn-group-raised .btn-primary.custom-file-control:hover::before {
       color: #fff;
-      background-color: #008276;
-      border-color: #005951; }
+      background-color: #02a993;
+      border-color: #018070; }
     .btn.bmd-btn-fab.btn-primary:focus, .bmd-btn-fab.btn-primary.custom-file-control:focus::before, .btn.bmd-btn-fab.btn-primary.focus, .bmd-btn-fab.btn-primary.focus.custom-file-control::before, .btn.btn-raised.btn-primary:focus, .btn-raised.btn-primary.custom-file-control:focus::before, .btn.btn-raised.btn-primary.focus, .btn-raised.btn-primary.focus.custom-file-control::before,
     .btn-group-raised .btn.btn-primary:focus,
     .btn-group-raised .btn-primary.custom-file-control:focus::before,
     .btn-group-raised .btn.btn-primary.focus,
     .btn-group-raised .btn-primary.focus.custom-file-control::before {
       color: #fff;
-      background-color: #008276;
-      border-color: #005951; }
+      background-color: #02a993;
+      border-color: #018070; }
     .btn.bmd-btn-fab.btn-primary:active, .bmd-btn-fab.btn-primary.custom-file-control:active::before, .btn.bmd-btn-fab.btn-primary.active, .bmd-btn-fab.btn-primary.active.custom-file-control::before,
     .open > .btn.bmd-btn-fab.btn-primary.dropdown-toggle,
     .open > .bmd-btn-fab.btn-primary.dropdown-toggle.custom-file-control::before, .btn.btn-raised.btn-primary:active, .btn-raised.btn-primary.custom-file-control:active::before, .btn.btn-raised.btn-primary.active, .btn-raised.btn-primary.active.custom-file-control::before,
@@ -6575,8 +6575,8 @@ button:focus {
     .open >
     .btn-group-raised .btn-primary.dropdown-toggle.custom-file-control::before {
       color: #fff;
-      background-color: #008276;
-      border-color: #005951; }
+      background-color: #02a993;
+      border-color: #018070; }
       .btn.bmd-btn-fab.btn-primary:active:hover, .bmd-btn-fab.btn-primary.custom-file-control:active:hover::before, .btn.bmd-btn-fab.btn-primary:active:focus, .bmd-btn-fab.btn-primary.custom-file-control:active:focus::before, .btn.bmd-btn-fab.btn-primary:active.focus, .bmd-btn-fab.btn-primary.custom-file-control:active.focus::before, .btn.bmd-btn-fab.btn-primary.active:hover, .bmd-btn-fab.btn-primary.active.custom-file-control:hover::before, .btn.bmd-btn-fab.btn-primary.active:focus, .bmd-btn-fab.btn-primary.active.custom-file-control:focus::before, .btn.bmd-btn-fab.btn-primary.active.focus, .bmd-btn-fab.btn-primary.active.focus.custom-file-control::before,
       .open > .btn.bmd-btn-fab.btn-primary.dropdown-toggle:hover,
       .open > .bmd-btn-fab.btn-primary.dropdown-toggle.custom-file-control:hover::before,
@@ -6615,17 +6615,17 @@ button:focus {
       .open >
       .btn-group-raised .btn-primary.dropdown-toggle.focus.custom-file-control::before {
         color: #fff;
-        background-color: #008276;
-        border-color: #001714; }
+        background-color: #02a993;
+        border-color: #013f37; }
     .open > .btn.bmd-btn-fab.btn-primary.dropdown-toggle.bmd-btn-icon, .open > .bmd-btn-fab.btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before, .open > .btn.btn-raised.btn-primary.dropdown-toggle.bmd-btn-icon, .open > .btn-raised.btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before, .open >
     .btn-group-raised .btn.btn-primary.dropdown-toggle.bmd-btn-icon, .open >
     .btn-group-raised .btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before {
       color: inherit;
-      background-color: #009688; }
+      background-color: #02bda5; }
       .open > .btn.bmd-btn-fab.btn-primary.dropdown-toggle.bmd-btn-icon:hover, .open > .bmd-btn-fab.btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control:hover::before, .open > .btn.btn-raised.btn-primary.dropdown-toggle.bmd-btn-icon:hover, .open > .btn-raised.btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control:hover::before, .open >
       .btn-group-raised .btn.btn-primary.dropdown-toggle.bmd-btn-icon:hover, .open >
       .btn-group-raised .btn-primary.dropdown-toggle.bmd-btn-icon.custom-file-control:hover::before {
-        background-color: #008276; }
+        background-color: #02a993; }
     .btn.bmd-btn-fab.btn-primary.disabled:focus, .bmd-btn-fab.btn-primary.disabled.custom-file-control:focus::before, .btn.bmd-btn-fab.btn-primary.disabled.focus, .bmd-btn-fab.btn-primary.disabled.focus.custom-file-control::before, .btn.bmd-btn-fab.btn-primary:disabled:focus, .bmd-btn-fab.btn-primary.custom-file-control:disabled:focus::before, .btn.bmd-btn-fab.btn-primary:disabled.focus, .bmd-btn-fab.btn-primary.custom-file-control:disabled.focus::before, .btn.btn-raised.btn-primary.disabled:focus, .btn-raised.btn-primary.disabled.custom-file-control:focus::before, .btn.btn-raised.btn-primary.disabled.focus, .btn-raised.btn-primary.disabled.focus.custom-file-control::before, .btn.btn-raised.btn-primary:disabled:focus, .btn-raised.btn-primary.custom-file-control:disabled:focus::before, .btn.btn-raised.btn-primary:disabled.focus, .btn-raised.btn-primary.custom-file-control:disabled.focus::before,
     .btn-group-raised .btn.btn-primary.disabled:focus,
     .btn-group-raised .btn-primary.disabled.custom-file-control:focus::before,
@@ -6635,15 +6635,15 @@ button:focus {
     .btn-group-raised .btn-primary.custom-file-control:disabled:focus::before,
     .btn-group-raised .btn.btn-primary:disabled.focus,
     .btn-group-raised .btn-primary.custom-file-control:disabled.focus::before {
-      background-color: #009688;
-      border-color: #009688; }
+      background-color: #02bda5;
+      border-color: #02bda5; }
     .btn.bmd-btn-fab.btn-primary.disabled:hover, .bmd-btn-fab.btn-primary.disabled.custom-file-control:hover::before, .btn.bmd-btn-fab.btn-primary:disabled:hover, .bmd-btn-fab.btn-primary.custom-file-control:disabled:hover::before, .btn.btn-raised.btn-primary.disabled:hover, .btn-raised.btn-primary.disabled.custom-file-control:hover::before, .btn.btn-raised.btn-primary:disabled:hover, .btn-raised.btn-primary.custom-file-control:disabled:hover::before,
     .btn-group-raised .btn.btn-primary.disabled:hover,
     .btn-group-raised .btn-primary.disabled.custom-file-control:hover::before,
     .btn-group-raised .btn.btn-primary:disabled:hover,
     .btn-group-raised .btn-primary.custom-file-control:disabled:hover::before {
-      background-color: #009688;
-      border-color: #009688; }
+      background-color: #02bda5;
+      border-color: #02bda5; }
   .btn.bmd-btn-fab.btn-secondary, .bmd-btn-fab.btn-secondary.custom-file-control::before, .btn.btn-raised.btn-secondary, .btn-raised.btn-secondary.custom-file-control::before,
   .btn-group-raised .btn.btn-secondary,
   .btn-group-raised .btn-secondary.custom-file-control::before {
@@ -7173,6 +7173,13 @@ button:focus {
   .btn-group-raised .custom-file-control:active::before {
     z-index: 1;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.18), 0 8px 16px rgba(0, 0, 0, 0.36); }
+  .btn.bmd-btn-fab.focus, .bmd-btn-fab.focus.custom-file-control::before, .btn.bmd-btn-fab:focus, .bmd-btn-fab.custom-file-control:focus::before, .btn.btn-raised.focus, .btn-raised.focus.custom-file-control::before, .btn.btn-raised:focus, .btn-raised.custom-file-control:focus::before,
+  .btn-group-raised .btn.focus,
+  .btn-group-raised .focus.custom-file-control::before,
+  .btn-group-raised .btn:focus,
+  .btn-group-raised .custom-file-control:focus::before {
+    box-shadow: none;
+    outline: 0; }
   .btn.btn-raised, .btn-raised.custom-file-control::before,
   .btn-group-raised .btn,
   .btn-group-raised .custom-file-control::before {
@@ -7288,23 +7295,23 @@ button:focus {
     .btn.btn-outline.btn-link, .btn-outline.btn-link.custom-file-control::before {
       background-color: transparent; }
   .btn.btn-outline-primary, .btn-outline-primary.custom-file-control::before {
-    color: #009688;
+    color: #02bda5;
     background-color: transparent;
-    border-color: #009688; }
+    border-color: #02bda5; }
     .btn.btn-outline-primary:hover, .btn-outline-primary.custom-file-control:hover::before {
-      color: #009688;
+      color: #02bda5;
       background-color: rgba(153, 153, 153, 0.2);
-      border-color: #009688; }
+      border-color: #02bda5; }
     .btn.btn-outline-primary:focus, .btn-outline-primary.custom-file-control:focus::before, .btn.btn-outline-primary.focus, .btn-outline-primary.focus.custom-file-control::before {
-      color: #009688;
+      color: #02bda5;
       background-color: rgba(153, 153, 153, 0.2);
-      border-color: #009688; }
+      border-color: #02bda5; }
     .btn.btn-outline-primary:active, .btn-outline-primary.custom-file-control:active::before, .btn.btn-outline-primary.active, .btn-outline-primary.active.custom-file-control::before,
     .open > .btn.btn-outline-primary.dropdown-toggle,
     .open > .btn-outline-primary.dropdown-toggle.custom-file-control::before {
-      color: #009688;
+      color: #02bda5;
       background-color: rgba(153, 153, 153, 0.2);
-      border-color: #009688; }
+      border-color: #02bda5; }
       .btn.btn-outline-primary:active:hover, .btn-outline-primary.custom-file-control:active:hover::before, .btn.btn-outline-primary:active:focus, .btn-outline-primary.custom-file-control:active:focus::before, .btn.btn-outline-primary:active.focus, .btn-outline-primary.custom-file-control:active.focus::before, .btn.btn-outline-primary.active:hover, .btn-outline-primary.active.custom-file-control:hover::before, .btn.btn-outline-primary.active:focus, .btn-outline-primary.active.custom-file-control:focus::before, .btn.btn-outline-primary.active.focus, .btn-outline-primary.active.focus.custom-file-control::before,
       .open > .btn.btn-outline-primary.dropdown-toggle:hover,
       .open > .btn-outline-primary.dropdown-toggle.custom-file-control:hover::before,
@@ -7312,9 +7319,9 @@ button:focus {
       .open > .btn-outline-primary.dropdown-toggle.custom-file-control:focus::before,
       .open > .btn.btn-outline-primary.dropdown-toggle.focus,
       .open > .btn-outline-primary.dropdown-toggle.focus.custom-file-control::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(153, 153, 153, 0.4);
-        border-color: #009688; }
+        border-color: #02bda5; }
     .open > .btn.btn-outline-primary.dropdown-toggle.bmd-btn-icon, .open > .btn-outline-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before {
       color: inherit;
       background-color: transparent; }
@@ -7322,26 +7329,26 @@ button:focus {
         background-color: rgba(153, 153, 153, 0.2); }
     .btn.btn-outline-primary.disabled:focus, .btn-outline-primary.disabled.custom-file-control:focus::before, .btn.btn-outline-primary.disabled.focus, .btn-outline-primary.disabled.focus.custom-file-control::before, .btn.btn-outline-primary:disabled:focus, .btn-outline-primary.custom-file-control:disabled:focus::before, .btn.btn-outline-primary:disabled.focus, .btn-outline-primary.custom-file-control:disabled.focus::before {
       background-color: transparent;
-      border-color: #009688; }
+      border-color: #02bda5; }
     .btn.btn-outline-primary.disabled:hover, .btn-outline-primary.disabled.custom-file-control:hover::before, .btn.btn-outline-primary:disabled:hover, .btn-outline-primary.custom-file-control:disabled:hover::before {
       background-color: transparent;
-      border-color: #009688; }
+      border-color: #02bda5; }
     .bg-inverse .btn.btn-outline-primary, .bg-inverse .btn-outline-primary.custom-file-control::before {
-      color: #009688;
+      color: #02bda5;
       background-color: transparent;
-      border-color: #009688; }
+      border-color: #02bda5; }
       .bg-inverse .btn.btn-outline-primary:hover, .bg-inverse .btn-outline-primary.custom-file-control:hover::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(204, 204, 204, 0.15);
         border-color: rgba(204, 204, 204, 0.15); }
       .bg-inverse .btn.btn-outline-primary:focus, .bg-inverse .btn-outline-primary.custom-file-control:focus::before, .bg-inverse .btn.btn-outline-primary.focus, .bg-inverse .btn-outline-primary.focus.custom-file-control::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(204, 204, 204, 0.15);
         border-color: rgba(204, 204, 204, 0.15); }
       .bg-inverse .btn.btn-outline-primary:active, .bg-inverse .btn-outline-primary.custom-file-control:active::before, .bg-inverse .btn.btn-outline-primary.active, .bg-inverse .btn-outline-primary.active.custom-file-control::before,
       .open > .bg-inverse .btn.btn-outline-primary.dropdown-toggle,
       .open > .bg-inverse .btn-outline-primary.dropdown-toggle.custom-file-control::before {
-        color: #009688;
+        color: #02bda5;
         background-color: rgba(204, 204, 204, 0.15);
         border-color: rgba(204, 204, 204, 0.15); }
         .bg-inverse .btn.btn-outline-primary:active:hover, .bg-inverse .btn-outline-primary.custom-file-control:active:hover::before, .bg-inverse .btn.btn-outline-primary:active:focus, .bg-inverse .btn-outline-primary.custom-file-control:active:focus::before, .bg-inverse .btn.btn-outline-primary:active.focus, .bg-inverse .btn-outline-primary.custom-file-control:active.focus::before, .bg-inverse .btn.btn-outline-primary.active:hover, .bg-inverse .btn-outline-primary.active.custom-file-control:hover::before, .bg-inverse .btn.btn-outline-primary.active:focus, .bg-inverse .btn-outline-primary.active.custom-file-control:focus::before, .bg-inverse .btn.btn-outline-primary.active.focus, .bg-inverse .btn-outline-primary.active.focus.custom-file-control::before,
@@ -7351,7 +7358,7 @@ button:focus {
         .open > .bg-inverse .btn-outline-primary.dropdown-toggle.custom-file-control:focus::before,
         .open > .bg-inverse .btn.btn-outline-primary.dropdown-toggle.focus,
         .open > .bg-inverse .btn-outline-primary.dropdown-toggle.focus.custom-file-control::before {
-          color: #009688;
+          color: #02bda5;
           background-color: rgba(204, 204, 204, 0.25);
           border-color: rgba(204, 204, 204, 0.25); }
       .open > .bg-inverse .btn.btn-outline-primary.dropdown-toggle.bmd-btn-icon, .open > .bg-inverse .btn-outline-primary.dropdown-toggle.bmd-btn-icon.custom-file-control::before {
@@ -7361,10 +7368,10 @@ button:focus {
           background-color: rgba(204, 204, 204, 0.15); }
       .bg-inverse .btn.btn-outline-primary.disabled:focus, .bg-inverse .btn-outline-primary.disabled.custom-file-control:focus::before, .bg-inverse .btn.btn-outline-primary.disabled.focus, .bg-inverse .btn-outline-primary.disabled.focus.custom-file-control::before, .bg-inverse .btn.btn-outline-primary:disabled:focus, .bg-inverse .btn-outline-primary.custom-file-control:disabled:focus::before, .bg-inverse .btn.btn-outline-primary:disabled.focus, .bg-inverse .btn-outline-primary.custom-file-control:disabled.focus::before {
         background-color: transparent;
-        border-color: #009688; }
+        border-color: #02bda5; }
       .bg-inverse .btn.btn-outline-primary.disabled:hover, .bg-inverse .btn-outline-primary.disabled.custom-file-control:hover::before, .bg-inverse .btn.btn-outline-primary:disabled:hover, .bg-inverse .btn-outline-primary.custom-file-control:disabled:hover::before {
         background-color: transparent;
-        border-color: #009688; }
+        border-color: #02bda5; }
     .btn.btn-outline-primary.btn-link, .btn-outline-primary.btn-link.custom-file-control::before {
       background-color: transparent; }
   .btn.btn-outline-secondary, .btn-outline-secondary.custom-file-control::before {
@@ -8017,11 +8024,11 @@ label.checkbox-inline {
       opacity: 0.2; }
     .checkbox label input[type=checkbox]:checked + .checkbox-decorator .check,
     label.checkbox-inline input[type=checkbox]:checked + .checkbox-decorator .check {
-      color: #009688;
-      border-color: #009688; }
+      color: #02bda5;
+      border-color: #02bda5; }
     .checkbox label input[type=checkbox]:checked + .checkbox-decorator .check::before,
     label.checkbox-inline input[type=checkbox]:checked + .checkbox-decorator .check::before {
-      color: #009688;
+      color: #02bda5;
       box-shadow: 0 0 0 10px, 10px -10px 0 10px, 32px 0 0 20px, 032px 0 20px, -5px 5px 0 10px, 20px -12px 0 11px;
       animation: checkbox-on 0.3s forwards; }
     .checkbox label input[type=checkbox][disabled] + .checkbox-decorator .check::after,
@@ -8096,7 +8103,7 @@ label.checkbox-inline {
 .custom-file-control .form-control, .custom-file-control .custom-file-control,
 .is-focused .custom-file-control .form-control,
 .is-focused .custom-file-control .custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px); }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px); }
 
 .custom-file-control .form-control:invalid, .custom-file-control .custom-file-control:invalid {
   background-image: linear-gradient(to top, #d50000 2px, rgba(213, 0, 0, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px); }
@@ -8112,17 +8119,17 @@ fieldset[disabled][disabled] .custom-file-control .form-control, fieldset[disabl
 .custom-file-control .form-control.form-control-success, .custom-file-control .form-control-success.custom-file-control,
 .is-focused .custom-file-control .form-control.form-control-success,
 .is-focused .custom-file-control .form-control-success.custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjNWNiODVjIiBkPSJNMjMzLjggNjEwYy0xMy4zIDAtMjYtNi0zNC0xNi44TDkwLjUgNDQ4LjhDNzYuMyA0MzAgODAgNDAzLjMgOTguOCAzODljMTguOC0xNC4yIDQ1LjUtMTAuNCA1OS44IDguNGw3MiA5NUw0NTEuMyAyNDJjMTIuNS0yMCAzOC44LTI2LjIgNTguOC0xMy43IDIwIDEyLjQgMjYgMzguNyAxMy43IDU4LjhMMjcwIDU5MGMtNy40IDEyLTIwLjIgMTkuNC0zNC4zIDIwaC0yeiIvPjwvc3ZnPg=="; }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjNWNiODVjIiBkPSJNMjMzLjggNjEwYy0xMy4zIDAtMjYtNi0zNC0xNi44TDkwLjUgNDQ4LjhDNzYuMyA0MzAgODAgNDAzLjMgOTguOCAzODljMTguOC0xNC4yIDQ1LjUtMTAuNCA1OS44IDguNGw3MiA5NUw0NTEuMyAyNDJjMTIuNS0yMCAzOC44LTI2LjIgNTguOC0xMy43IDIwIDEyLjQgMjYgMzguNyAxMy43IDU4LjhMMjcwIDU5MGMtNy40IDEyLTIwLjIgMTkuNC0zNC4zIDIwaC0yeiIvPjwvc3ZnPg=="; }
 
 .custom-file-control .form-control.form-control-warning, .custom-file-control .form-control-warning.custom-file-control,
 .is-focused .custom-file-control .form-control.form-control-warning,
 .is-focused .custom-file-control .form-control-warning.custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZjBhZDRlIiBkPSJNNjAzIDY0MC4ybC0yNzguNS01MDljLTMuOC02LjYtMTAuOC0xMC42LTE4LjUtMTAuNnMtMTQuNyA0LTE4LjUgMTAuNkw5IDY0MC4yYy0zLjcgNi41LTMuNiAxNC40LjIgMjAuOCAzLjggNi41IDEwLjggMTAuNCAxOC4zIDEwLjRoNTU3YzcuNiAwIDE0LjYtNCAxOC40LTEwLjQgMy41LTYuNCAzLjYtMTQuNCAwLTIwLjh6bS0yNjYuNC0zMGgtNjEuMlY1NDloNjEuMnY2MS4yem0wLTEwN2gtNjEuMlYzMDRoNjEuMnYxOTl6Ii8+PC9zdmc+"; }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZjBhZDRlIiBkPSJNNjAzIDY0MC4ybC0yNzguNS01MDljLTMuOC02LjYtMTAuOC0xMC42LTE4LjUtMTAuNnMtMTQuNyA0LTE4LjUgMTAuNkw5IDY0MC4yYy0zLjcgNi41LTMuNiAxNC40LjIgMjAuOCAzLjggNi41IDEwLjggMTAuNCAxOC4zIDEwLjRoNTU3YzcuNiAwIDE0LjYtNCAxOC40LTEwLjQgMy41LTYuNCAzLjYtMTQuNCAwLTIwLjh6bS0yNjYuNC0zMGgtNjEuMlY1NDloNjEuMnY2MS4yem0wLTEwN2gtNjEuMlYzMDRoNjEuMnYxOTl6Ii8+PC9zdmc+"; }
 
 .custom-file-control .form-control.form-control-danger, .custom-file-control .form-control-danger.custom-file-control,
 .is-focused .custom-file-control .form-control.form-control-danger,
 .is-focused .custom-file-control .form-control-danger.custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZDk1MzRmIiBkPSJNNDQ3IDU0NC40Yy0xNC40IDE0LjQtMzcuNiAxNC40LTUyIDBsLTg5LTkyLjctODkgOTIuN2MtMTQuNSAxNC40LTM3LjcgMTQuNC01MiAwLTE0LjQtMTQuNC0xNC40LTM3LjYgMC01Mmw5Mi40LTk2LjMtOTIuNC05Ni4zYy0xNC40LTE0LjQtMTQuNC0zNy42IDAtNTJzMzcuNi0xNC4zIDUyIDBsODkgOTIuOCA4OS4yLTkyLjdjMTQuNC0xNC40IDM3LjYtMTQuNCA1MiAwIDE0LjMgMTQuNCAxNC4zIDM3LjYgMCA1MkwzNTQuNiAzOTZsOTIuNCA5Ni40YzE0LjQgMTQuNCAxNC40IDM3LjYgMCA1MnoiLz48L3N2Zz4="; }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZDk1MzRmIiBkPSJNNDQ3IDU0NC40Yy0xNC40IDE0LjQtMzcuNiAxNC40LTUyIDBsLTg5LTkyLjctODkgOTIuN2MtMTQuNSAxNC40LTM3LjcgMTQuNC01MiAwLTE0LjQtMTQuNC0xNC40LTM3LjYgMC01Mmw5Mi40LTk2LjMtOTIuNC05Ni4zYy0xNC40LTE0LjQtMTQuNC0zNy42IDAtNTJzMzcuNi0xNC4zIDUyIDBsODkgOTIuOCA4OS4yLTkyLjdjMTQuNC0xNC40IDM3LjYtMTQuNCA1MiAwIDE0LjMgMTQuNCAxNC4zIDM3LjYgMCA1MkwzNTQuNiAzOTZsOTIuNCA5Ni40YzE0LjQgMTQuNCAxNC40IDM3LjYgMCA1MnoiLz48L3N2Zz4="; }
 
 .was-validated .custom-file-control .is-focused .form-control:valid, .was-validated .custom-file-control .is-focused .custom-file-control:valid, .custom-file-control .is-focused .form-control.is-valid, .custom-file-control .is-focused .is-valid.custom-file-control, .was-validated
 .custom-file-control .is-focused .custom-select:valid,
@@ -8177,7 +8184,7 @@ fieldset[disabled][disabled] .custom-file-control .form-control, fieldset[disabl
 .custom-file-control .is-focused [class^='bmd-label'],
 .custom-file-control .is-focused [class*=' bmd-label'], .custom-file-control.is-focused [class^='bmd-label'],
 .custom-file-control.is-focused [class*=' bmd-label'] {
-  color: #009688; }
+  color: #02bda5; }
 
 .custom-file-control .is-focused .bmd-label-placeholder, .custom-file-control.is-focused .bmd-label-placeholder {
   color: rgba(0, 0, 0, 0.26); }
@@ -8203,7 +8210,7 @@ fieldset[disabled][disabled] .custom-file-control .form-control, fieldset[disabl
     width: 2.125rem;
     height: 0.875rem;
     cursor: pointer;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.26) 0%, rgba(0, 0, 0, 0.26) 50%, #49dcce 50%, #49dcce 100%);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.26) 0%, rgba(0, 0, 0, 0.26) 50%, #6de1d2 50%, #6de1d2 100%);
     background-position: 0%;
     background-size: 4.25rem 0.875rem;
     border-radius: 2.125rem;
@@ -8234,7 +8241,7 @@ fieldset[disabled][disabled] .custom-file-control .form-control, fieldset[disabl
       background-position: -100%; }
       .switch label input:checked + .bmd-switch-track::after {
         left: calc(100% - 1.25rem);
-        background-color: #009688; }
+        background-color: #02bda5; }
     .switch label input:disabled + .bmd-switch-track:active::after {
       transform: translateY(-50%); }
     .switch label input:disabled + .bmd-switch-track {
@@ -8274,7 +8281,7 @@ label.radio-inline {
       width: 1.25rem;
       height: 1.25rem;
       content: "";
-      background-color: #009688;
+      background-color: #02bda5;
       border-radius: 50%;
       transition: transform ease .28s;
       transform: scale3d(0, 0, 0); }
@@ -8291,13 +8298,13 @@ label.radio-inline {
     opacity: 0; }
     .radio label input[type=radio]:checked ~ .bmd-radio::after,
     label.radio-inline input[type=radio]:checked ~ .bmd-radio::after {
-      border-color: #009688; }
+      border-color: #02bda5; }
     .radio label input[type=radio]:checked ~ .bmd-radio::before,
     label.radio-inline input[type=radio]:checked ~ .bmd-radio::before {
-      background-color: #009688; }
+      background-color: #02bda5; }
     .radio label input[type=radio]:checked ~ .bmd-radio::before,
     label.radio-inline input[type=radio]:checked ~ .bmd-radio::before {
-      transform: scale3d(0.55, 0.55, 1); }
+      transform: scale3d(0.5, 0.5, 1); }
     .radio label input[type=radio][disabled] + .bmd-radio, .radio label input[type=radio]:disabled + .bmd-radio,
     fieldset[disabled] .radio label input[type=radio] + .bmd-radio,
     label.radio-inline input[type=radio][disabled] + .bmd-radio,
@@ -8593,7 +8600,7 @@ form {
 .form-control, .custom-file-control,
 .is-focused .form-control,
 .is-focused .custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px); }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px); }
 
 .form-control:invalid, .custom-file-control:invalid {
   background-image: linear-gradient(to top, #d50000 2px, rgba(213, 0, 0, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px); }
@@ -8609,17 +8616,17 @@ fieldset[disabled][disabled] .form-control, fieldset[disabled][disabled] .custom
 .form-control.form-control-success, .form-control-success.custom-file-control,
 .is-focused .form-control.form-control-success,
 .is-focused .form-control-success.custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjNWNiODVjIiBkPSJNMjMzLjggNjEwYy0xMy4zIDAtMjYtNi0zNC0xNi44TDkwLjUgNDQ4LjhDNzYuMyA0MzAgODAgNDAzLjMgOTguOCAzODljMTguOC0xNC4yIDQ1LjUtMTAuNCA1OS44IDguNGw3MiA5NUw0NTEuMyAyNDJjMTIuNS0yMCAzOC44LTI2LjIgNTguOC0xMy43IDIwIDEyLjQgMjYgMzguNyAxMy43IDU4LjhMMjcwIDU5MGMtNy40IDEyLTIwLjIgMTkuNC0zNC4zIDIwaC0yeiIvPjwvc3ZnPg=="; }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjNWNiODVjIiBkPSJNMjMzLjggNjEwYy0xMy4zIDAtMjYtNi0zNC0xNi44TDkwLjUgNDQ4LjhDNzYuMyA0MzAgODAgNDAzLjMgOTguOCAzODljMTguOC0xNC4yIDQ1LjUtMTAuNCA1OS44IDguNGw3MiA5NUw0NTEuMyAyNDJjMTIuNS0yMCAzOC44LTI2LjIgNTguOC0xMy43IDIwIDEyLjQgMjYgMzguNyAxMy43IDU4LjhMMjcwIDU5MGMtNy40IDEyLTIwLjIgMTkuNC0zNC4zIDIwaC0yeiIvPjwvc3ZnPg=="; }
 
 .form-control.form-control-warning, .form-control-warning.custom-file-control,
 .is-focused .form-control.form-control-warning,
 .is-focused .form-control-warning.custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZjBhZDRlIiBkPSJNNjAzIDY0MC4ybC0yNzguNS01MDljLTMuOC02LjYtMTAuOC0xMC42LTE4LjUtMTAuNnMtMTQuNyA0LTE4LjUgMTAuNkw5IDY0MC4yYy0zLjcgNi41LTMuNiAxNC40LjIgMjAuOCAzLjggNi41IDEwLjggMTAuNCAxOC4zIDEwLjRoNTU3YzcuNiAwIDE0LjYtNCAxOC40LTEwLjQgMy41LTYuNCAzLjYtMTQuNCAwLTIwLjh6bS0yNjYuNC0zMGgtNjEuMlY1NDloNjEuMnY2MS4yem0wLTEwN2gtNjEuMlYzMDRoNjEuMnYxOTl6Ii8+PC9zdmc+"; }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZjBhZDRlIiBkPSJNNjAzIDY0MC4ybC0yNzguNS01MDljLTMuOC02LjYtMTAuOC0xMC42LTE4LjUtMTAuNnMtMTQuNyA0LTE4LjUgMTAuNkw5IDY0MC4yYy0zLjcgNi41LTMuNiAxNC40LjIgMjAuOCAzLjggNi41IDEwLjggMTAuNCAxOC4zIDEwLjRoNTU3YzcuNiAwIDE0LjYtNCAxOC40LTEwLjQgMy41LTYuNCAzLjYtMTQuNCAwLTIwLjh6bS0yNjYuNC0zMGgtNjEuMlY1NDloNjEuMnY2MS4yem0wLTEwN2gtNjEuMlYzMDRoNjEuMnYxOTl6Ii8+PC9zdmc+"; }
 
 .form-control.form-control-danger, .form-control-danger.custom-file-control,
 .is-focused .form-control.form-control-danger,
 .is-focused .form-control-danger.custom-file-control {
-  background-image: linear-gradient(to top, #009688 2px, rgba(0, 150, 136, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZDk1MzRmIiBkPSJNNDQ3IDU0NC40Yy0xNC40IDE0LjQtMzcuNiAxNC40LTUyIDBsLTg5LTkyLjctODkgOTIuN2MtMTQuNSAxNC40LTM3LjcgMTQuNC01MiAwLTE0LjQtMTQuNC0xNC40LTM3LjYgMC01Mmw5Mi40LTk2LjMtOTIuNC05Ni4zYy0xNC40LTE0LjQtMTQuNC0zNy42IDAtNTJzMzcuNi0xNC4zIDUyIDBsODkgOTIuOCA4OS4yLTkyLjdjMTQuNC0xNC40IDM3LjYtMTQuNCA1MiAwIDE0LjMgMTQuNCAxNC4zIDM3LjYgMCA1MkwzNTQuNiAzOTZsOTIuNCA5Ni40YzE0LjQgMTQuNCAxNC40IDM3LjYgMCA1MnoiLz48L3N2Zz4="; }
+  background-image: linear-gradient(to top, #02bda5 2px, rgba(2, 189, 165, 0) 2px), linear-gradient(to top, rgba(0, 0, 0, 0.26) 1px, transparent 1px), "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MTIgNzkyIj48cGF0aCBmaWxsPSIjZDk1MzRmIiBkPSJNNDQ3IDU0NC40Yy0xNC40IDE0LjQtMzcuNiAxNC40LTUyIDBsLTg5LTkyLjctODkgOTIuN2MtMTQuNSAxNC40LTM3LjcgMTQuNC01MiAwLTE0LjQtMTQuNC0xNC40LTM3LjYgMC01Mmw5Mi40LTk2LjMtOTIuNC05Ni4zYy0xNC40LTE0LjQtMTQuNC0zNy42IDAtNTJzMzcuNi0xNC4zIDUyIDBsODkgOTIuOCA4OS4yLTkyLjdjMTQuNC0xNC40IDM3LjYtMTQuNCA1MiAwIDE0LjMgMTQuNCAxNC4zIDM3LjYgMCA1MkwzNTQuNiAzOTZsOTIuNCA5Ni40YzE0LjQgMTQuNCAxNC40IDM3LjYgMCA1MnoiLz48L3N2Zz4="; }
 
 .was-validated .is-focused .form-control:valid, .was-validated .is-focused .custom-file-control:valid, .is-focused .form-control.is-valid, .is-focused .is-valid.custom-file-control, .was-validated
 .is-focused .custom-select:valid,
@@ -8701,7 +8708,7 @@ fieldset[disabled][disabled] .form-control, fieldset[disabled][disabled] .custom
 .is-focused [class*=' bmd-label'],
 .is-focused [class^='bmd-label'],
 .is-focused [class*=' bmd-label'] {
-  color: #009688; }
+  color: #02bda5; }
 
 .is-focused .bmd-label-placeholder,
 .is-focused .bmd-label-placeholder {
@@ -9477,9 +9484,9 @@ thead.thead-inverse th,
   color: rgba(0, 0, 0, 0.54); }
   .nav-tabs .nav-link.active {
     color: rgba(0, 0, 0, 0.87);
-    border-color: #009688; }
+    border-color: #02bda5; }
     .nav-tabs .nav-link.active:focus, .nav-tabs .nav-link.active:hover {
-      border-color: #009688; }
+      border-color: #02bda5; }
   .nav-tabs .nav-link.disabled {
     color: rgba(0, 0, 0, 0.26); }
     .nav-tabs .nav-link.disabled, .nav-tabs .nav-link.disabled:focus, .nav-tabs .nav-link.disabled:hover {
@@ -9597,29 +9604,12 @@ h6 {
 .tooltip-arrow {
   display: none; }
 
-.popover {
-  line-height: 1em;
-  color: #ececec;
-  background: rgba(101, 101, 101, 0.9);
-  border: 0;
-  border-radius: 0.125rem;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); }
-
-.tooltip, .tooltip.in {
-  opacity: 1; }
-
-.popover .arrow {
-  display: none; }
-
-.popover-header {
-  border: 0;
-  background-color: transparent; }
-
 .card {
   border: 0;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); }
   .card .card-header {
-    padding: 1rem; }
+    padding: 1rem;
+    background-color: transparent; }
   .card .card-block {
     padding: 1.5rem 1rem 1rem; }
   .card h1.card-title,
@@ -9656,44 +9646,38 @@ h6 {
       margin-left: 8px; }
 
 .dropdown-menu {
-  display: block;
+  display: none;
   padding: .25rem 0;
   border: 0;
   opacity: 0;
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   transform: scale(0);
   transform-origin: 0 0;
-  will-change: transform;
-  right: 0;
-  left: auto;
-  transform-origin: 100% 0; }
+  will-change: transform, opacity;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1); }
   @media (min-width: 768px) {
     .dropdown-menu {
       padding: .5rem 0; } }
+  .dropdown-menu.showing {
+    animation-name: bmd-dropdown-animation;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+    animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
   .open > .dropdown-menu, .dropdown-menu.show {
+    display: block;
     opacity: 1;
     transform: scale(1); }
-  .dropdown-menu.dropdown-menu-left {
-    top: 100%;
-    left: 0;
+  .dropdown-menu.hiding {
+    display: block;
+    opacity: 0;
+    transform: scale(0); }
+  .dropdown-menu[x-placement="bottom-start"] {
     transform-origin: 0 0; }
-  .dropdown-menu.dropdown-menu-right {
-    right: 0;
-    left: auto;
+  .dropdown-menu[x-placement="bottom-end"] {
     transform-origin: 100% 0; }
-  .dropup > .dropdown-menu {
-    right: 0;
-    left: auto;
+  .dropdown-menu[x-placement="top-start"] {
+    transform-origin: 0 100%; }
+  .dropdown-menu[x-placement="top-end"] {
     transform-origin: 100% 100%; }
-    .dropup > .dropdown-menu.dropdown-menu-left {
-      top: auto;
-      left: 0;
-      bottom: 100%;
-      transform-origin: 0 100%; }
-    .dropup > .dropdown-menu.dropdown-menu-right {
-      right: 0;
-      left: auto;
-      transform-origin: 100% 100%; }
   .dropdown-menu .dropdown-item {
     position: relative;
     display: flex;
@@ -9723,6 +9707,14 @@ h6 {
 
 .dropdown-toggle.bmd-btn-icon ~ .dropdown-menu {
   margin: 0; }
+
+@keyframes bmd-dropdown-animation {
+  from {
+    opacity: 0;
+    transform: scale(0); }
+  to {
+    opacity: 1;
+    transform: scale(1); } }
 
 .bmd-layout-drawer {
   position: absolute;
