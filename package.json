@@ -53,7 +53,7 @@
     "bootstrap": "4.0.0-beta",
     "cssnano-cli": "^1.0.5",
     "jquery": ">=3.0.0",
-    "node-sass": "^4.6.0",
+    "node-sass": "^4.13.1",
     "node-sass-tilde-importer": "^1.0.0",
     "popper.js": "^1.12.6",
     "prettier": "^1.8.0",
